@@ -7,7 +7,7 @@ useful hacks for Mac/Lunix/Windows development
 
 
 ## Enable ssh git bash  (Windows) 
-`> eval "$(ssh-agent -s)"`  
+`> eval "$(ssh-agent.exe)"`  
 `> ssh-add path/to/.ssh/id_rsa`  
 `> git clone <url>`
 
